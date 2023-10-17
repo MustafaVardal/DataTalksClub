@@ -1,0 +1,12 @@
+(base) mustafa@LAPTOP-U749SQ6F:/tmp/mlzoomcamp/homework$ docker image  pull svizor/zoomcamp-model:3.10.12-slim
+3.10.12-slim: Pulling from svizor/zoomcamp-model
+Digest: sha256:e8441100b9d8da56344f50c673eb2daded3c61ce9565e45c3592c02f34fb3149
+Status: Downloaded newer image for svizor/zoomcamp-model:3.10.12-slim
+docker.io/svizor/zoomcamp-model:3.10.12-slim
+(base) mustafa@LAPTOP-U749SQ6F:/tmp/mlzoomcamp/homework$ docker images
+REPOSITORY              TAG            IMAGE ID       CREATED          SIZE
+mlzoomcamp-homework     latest         4bb3b2c81a28   20 minutes ago   505MB
+<none>                  <none>         7206a11d836a   4 hours ago      544MB
+mlzoomcamp              homework5      85a3ec1a9279   4 hours ago      542MB
+svizor/zoomcamp-model   3.10.12-slim   08266c8f0c4b   7 days ago       147MB
+hello-world             latest         9c7a54a9a43c   5 months ago     13.3kB

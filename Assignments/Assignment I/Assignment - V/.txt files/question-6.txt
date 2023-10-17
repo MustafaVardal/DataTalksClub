@@ -1,0 +1,2 @@
+$ python q6_test.py
+{'churn': True, 'churn_probability': 0.726936946355423}
